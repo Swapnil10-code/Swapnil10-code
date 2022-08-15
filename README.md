@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Swapnil
 - 👀 I’m interested in applying computation to every possible thing that would make work easier for mankind.
 - 🌱 I’m an aspiring Software Developer currently working on my problem solving skills.
-- 💞️ I’m looking to collaborate on any project that benefits day to day lives of people.
+- 💞️ I’m looking to collaborate on any project that involves backend development and/or machine learning.
 - 📫 How to reach me : LinkedIn: https://www.linkedin.com/in/swapnil-ghatak-8357a716a
 
 <!---
